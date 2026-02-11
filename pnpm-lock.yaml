@@ -30,8 +30,8 @@ dependencies:
     specifier: ^0.6.0
     version: 0.6.0
   '@types/statuses':
-    specifier: ^2.0.4
-    version: 2.0.5
+    specifier: ^2.0.6
+    version: 2.0.6
   chalk:
     specifier: ^4.1.2
     version: 4.1.2
@@ -2561,8 +2561,8 @@ packages:
       '@types/node': 18.19.28
     dev: true
 
-  /@types/statuses@2.0.5:
-    resolution: {integrity: sha512-jmIUGWrAiwu3dZpxntxieC+1n/5c3mjrImkmOSQ2NC5uP6cYO4aAZDdSmRcI5C1oiTmqlZGHC+/NmJrKogbP5A==}
+  /@types/statuses@2.0.6:
+    resolution: {integrity: sha512-xMAgYwceFhRA2zY+XbEA7mxYbA093wdiW8Vu6gZPGWy9cmOyU9XesH1tNcEWsKFd5Vzrqx5T3D38PWx1FIIXkA==}
     dev: false
 
   /@types/tough-cookie@4.0.5:
