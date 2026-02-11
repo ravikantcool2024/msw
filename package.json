@@ -142,7 +142,7 @@
     "@bundled-es-modules/cookie": "^2.0.1",
     "@bundled-es-modules/statuses": "^1.0.1",
     "@bundled-es-modules/tough-cookie": "^0.1.6",
-    "@inquirer/confirm": "^5.0.0",
+    "@inquirer/confirm": "^5.1.21",
     "@mswjs/interceptors": "^0.37.0",
     "@open-draft/deferred-promise": "^2.2.0",
     "@open-draft/until": "^2.1.0",
